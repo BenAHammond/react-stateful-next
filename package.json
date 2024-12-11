@@ -1,0 +1,19 @@
+{
+  "name": "react-stateful-next",
+  "version": "1.0.0",
+  "description": "A NextJS adapter for @bhammond/react-stateful for easy querystring backed state management.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenAHammond/react-stateful-next.git"
+  },
+  "author": "bhammond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenAHammond/react-stateful-next/issues"
+  },
+  "homepage": "https://github.com/BenAHammond/react-stateful-next#readme"
+}
